@@ -7,7 +7,7 @@ CS Student and Python Developer
 I'm a computer science student and Python enthusiast with a passion for coding, and learning new stuff.
 
 * 🌍  I'm based in Turin, Italy
-* 🧠  I'm currently learning APIs in Python
+* 🧠  I'm currently learning REST APIs in Python
 * 🤝  I'm open to collaborating on cool open source projects
 
 ### Skills
