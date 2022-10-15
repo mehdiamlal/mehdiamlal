@@ -1,4 +1,4 @@
-Hi 👋 My name is Mehdi
+Hi 👋 my name is Mehdi
 ============================
 
 CS Student and Software Developer
