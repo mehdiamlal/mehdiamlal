@@ -6,9 +6,9 @@ CS Student and Software Developer
 
 I'm a Computer Science student and programming enthusiast with a passion for coding, and learning new stuff.
 
-* 🌍  I'm based in Turin, Italy
-* 🧠  I'm learning Parallel Programming, Web Development, Mobile Development
-* 🤝  I'm open to collaborating on cool open source projects
+* 🌍  I'm based in Turin, Italy.
+* 🧠  I'm currently learning System Programing and Software Engineering.
+* 🤝  I'm open to collaborating on cool open source projects.
 
 ### Skills
 
