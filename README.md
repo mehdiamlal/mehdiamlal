@@ -6,8 +6,8 @@ CS Student and Software Developer
 
 I'm a Computer Science student and programming enthusiast with a passion for coding, and learning new stuff.
 
-* 🌍  I'm based in Turin, Italy.
-* 🧠  I'm currently working on REST microservices.
+* 🌍  I'm based in Rome, Italy.
+* 🧠  I'm currently pursuing a Msc in Computer Science, specialising in AI.
 * 🤝  I'm open to collaborating on cool open source projects.
 
 ### Skills
