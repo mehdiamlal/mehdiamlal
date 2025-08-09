@@ -1,13 +1,13 @@
-Hi 👋 my name is Mehdi
+Hi 👋, my name is Mehdi
 ============================
 
 CS Student and Software Developer
 ----------------------------------
 
-I'm a Computer Science student and programming enthusiast with a passion for coding, and learning new stuff.
+I'm a Computer Science student and programming enthusiast with a passion for coding and learning new stuff.
 
 * 🌍  I'm based in Rome, Italy.
-* 🧠  I'm currently pursuing a Msc in Computer Science, specialising in AI.
+* 🧠  I'm currently pursuing an MSc in Computer Science, specialising in AI.
 * 🤝  I'm open to collaborating on cool open source projects.
 
 
